@@ -13,4 +13,35 @@
             </div>
         </div>
     </section>
-
+<footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>Amity Dhaba</h2>
+                    <p>Amity's Chill Zone</p>
+                </div>
+                <div class="footer-links">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="landing.html">Home</a></li>
+                        <li><a href="#menu">Menu</a></li>
+                        <li><a href="#about">In Rememberance</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h3>Follow Us</h3>
+                    <div class="social-icons">
+                        <a href="#" class="social-icon">FB</a>
+                        <a href="#" class="social-icon">IG</a>
+                        <a href="#" class="social-icon">TW</a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Amity Dhaba. If u trouble the trouble, Trouble will trouble you.</p>
+            </div>
+        </div>
+    </footer>
+      
+</body>
+</html>
