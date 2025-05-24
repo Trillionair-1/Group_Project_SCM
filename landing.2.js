@@ -74,4 +74,30 @@
                             <div class="menu-item">
                                 <div class="menu-item-checkbox">
                                     <input type="checkbox" id="item-7" name="menu-items" value="Bisi Bele Bath">
+   </div>
+                                <div class="menu-item-details">
+                                    <h4>Bisi Bele Bath</h4>
+                                    <p>Rice cooked with curry, lentils and spices</p>
+                                    <span class="price">₹35</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-7" name="menu-items" value="Puliogre">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Puliogre</h4>
+                                    <p>Rice mixed with masala and jist of tamrind juice</p>
+                                    <span class="price">₹35</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="category">
+                        <h3>Lunch & Snacks</h3>
+                        <div class="menu-items">
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-8" name="menu-items" value="South Indian Meal">
 
