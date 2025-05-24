@@ -110,4 +110,43 @@
                             <div class="menu-item">
                                 <div class="menu-item-checkbox">
                                     <input type="checkbox" id="item-9" name="menu-items" value="Paneer Tikka Masala">
-
+</div>
+                                <div class="menu-item-details">
+                                    <h4>Paneer Tikka Masala</h4>
+                                    <p>Paneer cooked in spices and served with naan</p>
+                                    <span class="price">₹70</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-10" name="menu-items" value="Egg Biriyani">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Egg Biriyani</h4>
+                                    <p>Egg cooked in spices and served with rice</p>
+                                    <span class="price">₹80</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-11" name="menu-items" value="Sandwich">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Sandwich</h4>
+                                    <p>Bread stuffed with veggies, cheese and mayo</p>
+                                    <span class="price">₹60</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-12" name="menu-items" value="Schezwan Fried Rice">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Schezwan Fried Rice</h4>
+                                    <p>Fried rice with schezwan sauce</p>
+                                    <span class="price">₹70</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
