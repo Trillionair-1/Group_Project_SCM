@@ -28,4 +28,18 @@
         </div>
     </section>
 
-
+<section id="about" class="about">
+        <div class="container">
+            <h2>In Rememberance</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Acadamic Block canteen was a place where students and staff gathered and enjoy coffee and food during short breaks.</p>
+                    <p>This place was next to acadamic block so students had easy commute to classes and were not getting late did'nt had to walk in sun to reach hostel canteen</p>
+                    <p>But due to some reasons this place is no more and we are trying to bring back the memories of that place here.</p>
+                </div>
+                <div class="about-image">
+                    <img src="image.jpg" alt="About Image" style="max-width: 100%; height: auto; border-radius: 8px;">
+                </div>
+            </div>
+        </div>
+    </section>
