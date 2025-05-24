@@ -20,4 +20,12 @@
             </ul>
         </nav>
     </header>
+ <section class="hero">
+        <div class="hero-content">
+            <h2>Welcome to Amity Dhaba</h2>
+            <p>Amity's Chill Zone</p>
+            <a href="#menu" class="btn">View Menu</a>
+        </div>
+    </section>
+
 
