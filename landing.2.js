@@ -100,4 +100,14 @@
                             <div class="menu-item">
                                 <div class="menu-item-checkbox">
                                     <input type="checkbox" id="item-8" name="menu-items" value="South Indian Meal">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Traditional South Indian Lunch</h4>
+                                    <p></p>
+                                    <span class="price">₹60</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-9" name="menu-items" value="Paneer Tikka Masala">
 
