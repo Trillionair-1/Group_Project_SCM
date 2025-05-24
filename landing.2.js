@@ -36,4 +36,16 @@
                                     <span class="price">₹15</span>
                                 </div>
                             </div>
+ 
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-4" name="menu-items" value="Ganne ka juice">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Ganne ka juice</h4>
+                                    <p>Fresh sugar cane juice</p>
+                                    <span class="price">₹20</span>
+                                </div>
+                            </div>
+                     </div>
+                    </div>
 
