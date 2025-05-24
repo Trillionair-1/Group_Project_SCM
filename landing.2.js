@@ -48,4 +48,30 @@
                             </div>
                      </div>
                     </div>
+<div class="category">
+                        <h3>Breakfast</h3>
+                        <div class="menu-items">
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-5" name="menu-items" value="Roti">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Roti</h4>
+                                    <p>3-Roti made with Aata</p>
+                                    <span class="price">₹15</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-6" name="menu-items" value="Masala Dose">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Masala Dose</h4>
+                                    <p>Crispy Dose with smashed potato filling</p>
+                                    <span class="price">₹45</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-7" name="menu-items" value="Bisi Bele Bath">
 
