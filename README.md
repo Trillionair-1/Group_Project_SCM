@@ -1,71 +1,39 @@
-# Group_Project_SCM
-Online Canteen System 🍽️
-Welcome to the Online Canteen System! This project lets users browse menus, place orders, and enjoy a seamless canteen experience—all through a modern web interface. :wave: :sparkles:
+# 🍽  Canteen Pre-Order System
 
-Features ✨
-User-Friendly Interface 🖥️
-Simple, intuitive design using only HTML, CSS, and JavaScript for easy navigation and quick ordering.
+A responsive web application that allows users to pre-order meals from the canteen. Built as part of a Web Technologies academic project with full team collaboration using Git and GitHub.
 
-Digital Menu 📋🍔
-Browse a visually appealing menu with food categories, images, descriptions, and prices.
+## 🚀 Features
 
-Order Placement 🛒
-Select items, add them to your cart, and place orders with just a few clicks! :point_right:
+- Landing page with hero & about sections
+- Dynamic menu page with categories
+- Staff login page for admin access
+- Admin panel to add new menu items
+- Fully responsive layout
+- Organized codebase with Git branching
 
-Responsive Design 📱💻
-Works smoothly on desktops, tablets, and smartphones.
+## 🧑<200d>💻 Team Roles & Branches
 
-Order Confirmation ✅
-Get instant feedback and confirmation after placing your order.
+| Team Member | Feature              |
+|-------------|----------------------|
+| Shoheb pasha | Full CSS Styling
+| Nischay kumar   | Login Page
+| Md. Arhan    | Landing Page HTML    |
+| Gagan N    | Menu Page HTML       |               |
 
-Contact & Feedback ✍️⭐
-Users can reach out or leave feedback directly from the site.
+## 🔧 Tech Stack
 
-Technologies Used 🛠️
-Technology	Purpose
-HTML	Structure & content
-CSS	Styling & layout
-JavaScript	Interactivity & logic
-:no_entry: No backend or database is required—this project is entirely frontend-based!
+- HTML
+- CSS
+- Git & GitHub
+- VS Code
 
-Installation 🚀
-Clone the repository:
+## 🔄 GitHub Workflow
 
-bash
-git clone https://github.com/yourusername/online-canteen-system.git
-Open the project folder.
+1. Repo created and shared by the team lead
+2. Each member cloned/forked the repo
+3. Feature branches were created per component
+4. PRs were submitted, reviewed, and merged to main
 
-Run the application:
-Double-click index.html or open it in your preferred browser. :point_up:
+## 📬 Contact
 
-Usage 👨‍🍳👩‍🍳
-Browse the menu and select your favorite items. :hamburger: :pizza:
-
-Add items to your cart and review your order.
-
-Place your order and receive confirmation instantly. :clap:
-
-Use the contact form for queries or feedback.
-
-Contributing 🤝
-We welcome your ideas and improvements! :raised_hands:
-
-Fork the repo, make changes, and submit a pull request.
-
-For major changes, open an issue first to discuss your suggestions.
-
-License 📄
-This project is open source. See the LICENSE file for details.
-
-Enjoy your meal and happy ordering! :yum: :sparkles:
-
-Tip:
-Emojis and gesture icons (like :wave:, :clap:, :point_right:) are supported in GitHub Markdown—just use their codes for extra flair!
-
-Related
-How can I create a functional online canteen system using only HTML, CSS, and JS
-What are the limitations of building a food ordering app without backend technologies
-How do I handle data storage and management with just HTML, CSS, and JavaScript
-Can I implement features like menu updates or order tracking using only front-end tools
-What design techniques can make my HTML, CSS, and JS project look professional and user-friendly
-
+For any queries, reach out via [GitHub Issues](https://github.com/YOUR_USERNAME/Team-13_Canteen_pre_order/issues).
